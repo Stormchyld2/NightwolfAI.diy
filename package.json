@@ -1,14 +1,14 @@
 {
-  "name": "bolt",
-  "description": "An AI Agent",
+  "name": "NightwolfAI",
+  "description": "Nightwolf Developments AI-Powered Code IDE",
   "private": true,
   "license": "MIT",
   "sideEffects": false,
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.4.0",
   "author": {
-    "name": "bolt.diy team",
-    "email": "maintainers@bolt.diy"
+    "name": "Nightwolf Developement team",
+    "email": "contact@nightwolfdevelopmentt.com"
   },
   "scripts": {
     "deploy": "npm run build && wrangler pages deploy",
